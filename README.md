@@ -8,6 +8,7 @@ The intent is explicitly not to be a production quality or general purpose OS an
  - Interrupt handling
  - Preemptive scheduling
  - Simple device drivers
+
 Explicit non-goals include:
  - File systems
  - User friendly GUIs
